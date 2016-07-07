@@ -10,7 +10,9 @@ Some seed data has been provided.
 
 Install necessary dependencies with $ npm install
 
-Make sure you create a new DB on MongoLab (mLab) or if you are familiar you can just use mongoDB with mongo shell.
+Make sure you create a new DB on MongoLab (mLab) or if you are familiar with mongoDB + mongoose to config on your own.
+
+Once set up is complete run $ node app.js or alternatively $ nodemon app.js 
 
 ## Under config folder 
 
