@@ -1,4 +1,4 @@
-*/Set your mLab Url below/*
+/*Set your mLab Url below*/
 
 var configValues = require('./config');
 
