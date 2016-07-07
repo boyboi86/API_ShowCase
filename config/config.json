@@ -1,3 +1,5 @@
+*/Set username and password here must be same as mLab when set user/*
+
 {
   "uname":"test",
   "pwd":"test"
